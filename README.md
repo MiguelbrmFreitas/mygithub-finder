@@ -1,3 +1,6 @@
+## Github Finder
+React app to find GitHub users using GitHub API (https://developer.github.com/v3/). It was made for project 1 of Udemy course React Front to Back (https://www.udemy.com/course/modern-react-front-to-back/) with a few improvements.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
